@@ -10,4 +10,9 @@ npm install hello-world-npm
 
 ## Usage
 
-Todo..
+```
+import { helloWorld } from 'hello-world-npm';
+
+console.log(helloWorld());
+
+```
