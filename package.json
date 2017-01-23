@@ -1,6 +1,6 @@
 {
   "name": "hello-world-npm",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Hello World NPM example",
   "main": "lib/index.js",
   "scripts": {
