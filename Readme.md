@@ -16,3 +16,21 @@ import { helloWorld } from 'hello-world-npm';
 console.log(helloWorld());
 
 ```
+
+OR
+
+```
+import HelloWorldNPM from 'hello-world-npm';
+
+console.log(HelloWorldNPM.helloWorld());
+
+```
+
+AND
+
+```
+import HelloWorldNPM from 'hello-world-npm';
+
+console.log(HelloWorldNPM());
+
+```

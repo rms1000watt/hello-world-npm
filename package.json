@@ -15,6 +15,9 @@
     "world",
     "hello-world"
   ],
+  "bin": {
+    "hello-world-npm": "./bin.js"
+  },
   "author": "Ryan Smith",
   "license": "MIT",
   "bugs": {
