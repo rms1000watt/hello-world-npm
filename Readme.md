@@ -7,7 +7,8 @@ This is an example project to see the minimal amount effort needed to publish to
 ## Installation
 
 ```
-npm install -g hello-world-npm
+npm install -g nimstall
+nimstall -g hello-world-npm
 ```
 
 ## Usage
